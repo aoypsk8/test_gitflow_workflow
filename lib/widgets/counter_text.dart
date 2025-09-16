@@ -12,7 +12,7 @@ class CounterText extends StatelessWidget {
       selector: (_, p) => p.count,
       builder: (_, count, __) {
         return Text(
-          'Count: $count',
+          'Developer: $count',
           style: const TextStyle(fontSize: 40, fontWeight: FontWeight.w600),
         );
       },
