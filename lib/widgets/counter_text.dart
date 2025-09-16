@@ -32,3 +32,5 @@ class CounterText extends StatelessWidget {
 // test
 // test
 // test
+// test
+// register page
