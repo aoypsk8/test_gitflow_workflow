@@ -20,3 +20,4 @@ class CounterText extends StatelessWidget {
   }
 }
 // test
+// register page
